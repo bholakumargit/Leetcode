@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bholakumargit/Leetcode/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/bholakumargit/Leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bholakumargit/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/bholakumargit/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bholakumargit/Leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/bholakumargit/Leetcode/tree/master/0283-move-zeroes) |
 ## Prefix Sum
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/bholakumargit/Leetcode/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/bholakumargit/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
