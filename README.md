@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bholakumargit/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bholakumargit/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/bholakumargit/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/bholakumargit/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -63,4 +64,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/bholakumargit/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bholakumargit/Leetcode/tree/master/0229-majority-element-ii) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/bholakumargit/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+## String
+|  |
+| ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/bholakumargit/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
