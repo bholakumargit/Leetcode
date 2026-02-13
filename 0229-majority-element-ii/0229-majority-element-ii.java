@@ -6,8 +6,7 @@ class Solution {
         for (int n : nums) {
 
             if (n == n1) c1++;
-
-            else if (n == n2) c2++;
+             else if (n == n2) c2++;
 
             else if (c1 == 0) {
                 n1 = n;
