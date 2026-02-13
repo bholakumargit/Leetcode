@@ -4,10 +4,10 @@ class Solution {
 
         while (mid <= high) {
 
-            if (nums[mid] == 0) {
+          if (nums[mid] == 0) {
                 swap(nums, low++, mid++);
-            } 
-            else if (nums[mid] == 1) {
+        } 
+            else if (nums[mid] ==1) {
                 mid++;
             } 
             else {
