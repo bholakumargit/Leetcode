@@ -12,7 +12,8 @@ class Solution {
     public ListNode swapNodes(ListNode head, int k) {
         ListNode fast=head;
 
-        while(--k>0) fast=fast.next;      //reaching kth node from start
+        while(--k>0) 
+            fast=fast.next;      //reaching kth node from start
         ListNode X=fast;
 
         ListNode slow=head;
