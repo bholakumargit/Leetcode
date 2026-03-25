@@ -1,7 +1,7 @@
 class Solution {
     public int rob(int[] nums) {
 
-        int n=nums.length;
+    int n=nums.length;
     int[] dp=new int[n];
     n=nums.length;
 
