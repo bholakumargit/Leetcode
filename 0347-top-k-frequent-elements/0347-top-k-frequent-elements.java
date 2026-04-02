@@ -14,5 +14,6 @@ class Solution {
             result[i]=list.get(i);
         }
         return result;
+        
     }
 }
