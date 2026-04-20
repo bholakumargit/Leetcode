@@ -146,13 +146,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/bholakumargit/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bholakumargit/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/bholakumargit/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bholakumargit/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/bholakumargit/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bholakumargit/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/bholakumargit/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
