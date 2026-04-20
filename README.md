@@ -143,4 +143,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bholakumargit/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Tree
+|  |
+| ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/bholakumargit/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/bholakumargit/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/bholakumargit/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 <!---LeetCode Topics End-->
