@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bholakumargit/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bholakumargit/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/bholakumargit/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/bholakumargit/Leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/bholakumargit/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/bholakumargit/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/bholakumargit/Leetcode/tree/master/0283-move-zeroes) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bholakumargit/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/bholakumargit/Leetcode/tree/master/0200-number-of-islands) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/bholakumargit/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -162,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bholakumargit/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/bholakumargit/Leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/bholakumargit/Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/bholakumargit/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
