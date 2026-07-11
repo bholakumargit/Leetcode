@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bholakumargit/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/bholakumargit/Leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/bholakumargit/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/bholakumargit/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bholakumargit/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/bholakumargit/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bholakumargit/Leetcode/tree/master/0075-sort-colors) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bholakumargit/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bholakumargit/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/bholakumargit/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bholakumargit/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bholakumargit/Leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/bholakumargit/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/bholakumargit/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bholakumargit/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bholakumargit/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bholakumargit/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/bholakumargit/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/bholakumargit/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/bholakumargit/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bholakumargit/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/bholakumargit/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
