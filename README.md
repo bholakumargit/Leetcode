@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bholakumargit/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/bholakumargit/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bholakumargit/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/bholakumargit/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bholakumargit/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/bholakumargit/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/bholakumargit/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/bholakumargit/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/bholakumargit/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Linked List
 |  |
