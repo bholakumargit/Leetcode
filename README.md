@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bholakumargit/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/bholakumargit/Leetcode/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/bholakumargit/Leetcode/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/bholakumargit/Leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/bholakumargit/Leetcode/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bholakumargit/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/bholakumargit/Leetcode/tree/master/1046-last-stone-weight) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/bholakumargit/Leetcode/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/bholakumargit/Leetcode/tree/master/0867-transpose-matrix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bholakumargit/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bholakumargit/Leetcode/tree/master/0200-number-of-islands) |
+| [0867-transpose-matrix](https://github.com/bholakumargit/Leetcode/tree/master/0867-transpose-matrix) |
 ## Merge Sort
 |  |
 | ------- |
