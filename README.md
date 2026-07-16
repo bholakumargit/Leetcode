@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bholakumargit/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bholakumargit/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/bholakumargit/Leetcode/tree/master/0645-set-mismatch) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/bholakumargit/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/bholakumargit/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Sorting
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bholakumargit/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bholakumargit/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bholakumargit/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/bholakumargit/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/bholakumargit/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/bholakumargit/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/bholakumargit/Leetcode/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/bholakumargit/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/bholakumargit/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/bholakumargit/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Linked List
 |  |
