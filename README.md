@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/bholakumargit/Leetcode/tree/master/1046-last-stone-weight) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bholakumargit/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bholakumargit/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2418-sort-the-people](https://github.com/bholakumargit/Leetcode/tree/master/2418-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/bholakumargit/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1496-path-crossing](https://github.com/bholakumargit/Leetcode/tree/master/1496-path-crossing) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/bholakumargit/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2418-sort-the-people](https://github.com/bholakumargit/Leetcode/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bholakumargit/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/bholakumargit/Leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/bholakumargit/Leetcode/tree/master/0912-sort-an-array) |
+| [2418-sort-the-people](https://github.com/bholakumargit/Leetcode/tree/master/2418-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/bholakumargit/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1496-path-crossing](https://github.com/bholakumargit/Leetcode/tree/master/1496-path-crossing) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/bholakumargit/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2418-sort-the-people](https://github.com/bholakumargit/Leetcode/tree/master/2418-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
