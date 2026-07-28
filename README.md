@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bholakumargit/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bholakumargit/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bholakumargit/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/bholakumargit/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bholakumargit/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/bholakumargit/Leetcode/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/bholakumargit/Leetcode/tree/master/2706-buy-two-chocolates) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/bholakumargit/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/bholakumargit/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bholakumargit/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/bholakumargit/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/bholakumargit/Leetcode/tree/master/2418-sort-the-people) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/bholakumargit/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Linked List
