@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bholakumargit/Leetcode/tree/master/0189-rotate-array) |
 | [2485-find-the-pivot-integer](https://github.com/bholakumargit/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/bholakumargit/Leetcode/tree/master/2544-alternating-digit-sum) |
+| [2651-calculate-delayed-arrival-time](https://github.com/bholakumargit/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bholakumargit/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting
 |  |
