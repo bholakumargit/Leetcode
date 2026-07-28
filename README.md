@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/bholakumargit/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/bholakumargit/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/bholakumargit/Leetcode/tree/master/2652-sum-multiples) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/bholakumargit/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bholakumargit/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bholakumargit/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/bholakumargit/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/bholakumargit/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/bholakumargit/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## String
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bholakumargit/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/bholakumargit/Leetcode/tree/master/2418-sort-the-people) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/bholakumargit/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/bholakumargit/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Linked List
 |  |
 | ------- |
