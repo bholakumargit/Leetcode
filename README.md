@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/bholakumargit/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2706-buy-two-chocolates](https://github.com/bholakumargit/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/bholakumargit/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3074-apple-redistribution-into-boxes](https://github.com/bholakumargit/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,12 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bholakumargit/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2418-sort-the-people](https://github.com/bholakumargit/Leetcode/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/bholakumargit/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [3074-apple-redistribution-into-boxes](https://github.com/bholakumargit/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bholakumargit/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bholakumargit/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2706-buy-two-chocolates](https://github.com/bholakumargit/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [3074-apple-redistribution-into-boxes](https://github.com/bholakumargit/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Divide and Conquer
 |  |
 | ------- |
