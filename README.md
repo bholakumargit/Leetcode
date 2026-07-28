@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/bholakumargit/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/bholakumargit/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3074-apple-redistribution-into-boxes](https://github.com/bholakumargit/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/bholakumargit/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/bholakumargit/Leetcode/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/bholakumargit/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/bholakumargit/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/bholakumargit/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Greedy
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bholakumargit/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2706-buy-two-chocolates](https://github.com/bholakumargit/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/bholakumargit/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/bholakumargit/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Divide and Conquer
 |  |
 | ------- |
