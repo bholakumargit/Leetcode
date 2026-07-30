@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/bholakumargit/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/bholakumargit/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/bholakumargit/Leetcode/tree/master/0912-sort-an-array) |
+| [0997-find-the-town-judge](https://github.com/bholakumargit/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bholakumargit/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/bholakumargit/Leetcode/tree/master/1046-last-stone-weight) |
 | [1463-cherry-pickup-ii](https://github.com/bholakumargit/Leetcode/tree/master/1463-cherry-pickup-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bholakumargit/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bholakumargit/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/bholakumargit/Leetcode/tree/master/0645-set-mismatch) |
+| [0997-find-the-town-judge](https://github.com/bholakumargit/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/bholakumargit/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1496-path-crossing](https://github.com/bholakumargit/Leetcode/tree/master/1496-path-crossing) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/bholakumargit/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -347,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bholakumargit/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/bholakumargit/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/bholakumargit/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/bholakumargit/Leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
