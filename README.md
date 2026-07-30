@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bholakumargit/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bholakumargit/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/bholakumargit/Leetcode/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/bholakumargit/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/bholakumargit/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/bholakumargit/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1496-path-crossing](https://github.com/bholakumargit/Leetcode/tree/master/1496-path-crossing) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/bholakumargit/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bholakumargit/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/bholakumargit/Leetcode/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/bholakumargit/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1143-longest-common-subsequence](https://github.com/bholakumargit/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/bholakumargit/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/bholakumargit/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
