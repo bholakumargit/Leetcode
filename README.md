@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/bholakumargit/Leetcode/tree/master/2418-sort-the-people) |
 | [2562-find-the-array-concatenation-value](https://github.com/bholakumargit/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2706-buy-two-chocolates](https://github.com/bholakumargit/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [2942-find-words-containing-character](https://github.com/bholakumargit/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/bholakumargit/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3074-apple-redistribution-into-boxes](https://github.com/bholakumargit/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/bholakumargit/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/bholakumargit/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/bholakumargit/Leetcode/tree/master/2418-sort-the-people) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/bholakumargit/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2942-find-words-containing-character](https://github.com/bholakumargit/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/bholakumargit/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Linked List
 |  |
