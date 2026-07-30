@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/bholakumargit/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/bholakumargit/Leetcode/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/bholakumargit/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/bholakumargit/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/bholakumargit/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1496-path-crossing](https://github.com/bholakumargit/Leetcode/tree/master/1496-path-crossing) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/bholakumargit/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bholakumargit/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/bholakumargit/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bholakumargit/Leetcode/tree/master/0739-daily-temperatures) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/bholakumargit/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
 | ------- |
