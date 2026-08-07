@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bholakumargit/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/bholakumargit/Leetcode/tree/master/0621-task-scheduler) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/bholakumargit/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1603-design-parking-system](https://github.com/bholakumargit/Leetcode/tree/master/1603-design-parking-system) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/bholakumargit/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/bholakumargit/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## String
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bholakumargit/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [1603-design-parking-system](https://github.com/bholakumargit/Leetcode/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/bholakumargit/Leetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/bholakumargit/Leetcode/tree/master/0867-transpose-matrix) |
+| [1603-design-parking-system](https://github.com/bholakumargit/Leetcode/tree/master/1603-design-parking-system) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bholakumargit/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bholakumargit/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2562-find-the-array-concatenation-value](https://github.com/bholakumargit/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
