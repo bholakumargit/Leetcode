@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/bholakumargit/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/bholakumargit/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/bholakumargit/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/bholakumargit/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bholakumargit/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bholakumargit/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bholakumargit/Leetcode/tree/master/0056-merge-intervals) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bholakumargit/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/bholakumargit/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/bholakumargit/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/bholakumargit/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bholakumargit/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/bholakumargit/Leetcode/tree/master/0189-rotate-array) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bholakumargit/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/bholakumargit/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/bholakumargit/Leetcode/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/bholakumargit/Leetcode/tree/master/0867-transpose-matrix) |
