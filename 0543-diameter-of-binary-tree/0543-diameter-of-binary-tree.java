@@ -1,18 +1,4 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -29,19 +15,19 @@
  * }
  */
 class Solution {
-    int diameter;
+    int dia;
     public int diameterOfBinaryTree(TreeNode root) {
-        diameter = 0;
+        dia = 0;
         dfs(root);
-        return diameter;
+        return dia;
     }
     private int dfs(TreeNode node) {
         if (node == null) {
             return 0;
         }
-        int leftPath = dfs(node.left);
-        int rightPath = dfs(node.right);
-        diameter = Math.max(diameter, leftPath + rightPath);
-        return 1 + Math.max(leftPath, rightPath);
+       int left=dfs(node.left);
+       int right=dfs(node.right);
+       dia=Math.max(dia,left+right);
+       return 1+ Math.max(left,right);
     }
 }
