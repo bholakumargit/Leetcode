@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/bholakumargit/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bholakumargit/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1528-shuffle-string](https://github.com/bholakumargit/Leetcode/tree/master/1528-shuffle-string) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/bholakumargit/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bholakumargit/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bholakumargit/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bholakumargit/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/bholakumargit/Leetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/bholakumargit/Leetcode/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/bholakumargit/Leetcode/tree/master/1603-design-parking-system) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/bholakumargit/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bholakumargit/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bholakumargit/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2562-find-the-array-concatenation-value](https://github.com/bholakumargit/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bholakumargit/Leetcode/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/bholakumargit/Leetcode/tree/master/0867-transpose-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/bholakumargit/Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/bholakumargit/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Merge Sort
 |  |
 | ------- |
