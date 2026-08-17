@@ -14,17 +14,25 @@
  * }
  */
 class Solution {
-    TreeNode PreviousNode;
+
     public boolean isValidBST(TreeNode root) {
-        return InorderTraversal(root);
-        
+        return checkBST(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
-    public boolean InorderTraversal(TreeNode CurrentNode){
-        if(CurrentNode==null) return true;
-        if(!InorderTraversal(CurrentNode.left)) return false;
-        if(PreviousNode!=null && PreviousNode.val>=CurrentNode.val) return false;
-        PreviousNode=CurrentNode;
-        return InorderTraversal(CurrentNode.right);
+
+    public boolean checkBST(TreeNode root, long min, long max) {
+
+        if (root == null) {
+            return true;
+        }
+
+        if (root.val <= min || root.val >= max) {
+            return false;
+        }
+
+        boolean left = checkBST(root.left, min, root.val);
+
+        boolean right = checkBST(root.right, root.val, max);
+
+        return left && right;
     }
-    
 }
