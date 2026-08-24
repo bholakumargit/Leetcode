@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bholakumargit/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bholakumargit/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/bholakumargit/Leetcode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/bholakumargit/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/bholakumargit/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/bholakumargit/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bholakumargit/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/bholakumargit/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/bholakumargit/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/bholakumargit/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/bholakumargit/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bholakumargit/Leetcode/tree/master/0070-climbing-stairs) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bholakumargit/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/bholakumargit/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/bholakumargit/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/bholakumargit/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/bholakumargit/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/bholakumargit/Leetcode/tree/master/0079-word-search) |
