@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bholakumargit/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/bholakumargit/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/bholakumargit/Leetcode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/bholakumargit/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/bholakumargit/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/bholakumargit/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bholakumargit/Leetcode/tree/master/0070-climbing-stairs) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/bholakumargit/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/bholakumargit/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/bholakumargit/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/bholakumargit/Leetcode/tree/master/0645-set-mismatch) |
