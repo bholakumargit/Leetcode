@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/bholakumargit/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bholakumargit/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/bholakumargit/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0376-wiggle-subsequence](https://github.com/bholakumargit/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0496-next-greater-element-i](https://github.com/bholakumargit/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bholakumargit/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/bholakumargit/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bholakumargit/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/bholakumargit/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/bholakumargit/Leetcode/tree/master/0198-house-robber) |
+| [0376-wiggle-subsequence](https://github.com/bholakumargit/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bholakumargit/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/bholakumargit/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/bholakumargit/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/bholakumargit/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bholakumargit/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/bholakumargit/Leetcode/tree/master/0134-gas-station) |
+| [0376-wiggle-subsequence](https://github.com/bholakumargit/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/bholakumargit/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/bholakumargit/Leetcode/tree/master/0621-task-scheduler) |
 | [2706-buy-two-chocolates](https://github.com/bholakumargit/Leetcode/tree/master/2706-buy-two-chocolates) |
