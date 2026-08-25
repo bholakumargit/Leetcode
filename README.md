@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/bholakumargit/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bholakumargit/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/bholakumargit/Leetcode/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/bholakumargit/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bholakumargit/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bholakumargit/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1463-cherry-pickup-ii](https://github.com/bholakumargit/Leetcode/tree/master/1463-cherry-pickup-ii) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/bholakumargit/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/bholakumargit/Leetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/bholakumargit/Leetcode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/bholakumargit/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1603-design-parking-system](https://github.com/bholakumargit/Leetcode/tree/master/1603-design-parking-system) |
 | [1701-average-waiting-time](https://github.com/bholakumargit/Leetcode/tree/master/1701-average-waiting-time) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/bholakumargit/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/bholakumargit/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/bholakumargit/Leetcode/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/bholakumargit/Leetcode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/bholakumargit/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/bholakumargit/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/bholakumargit/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Merge Sort
