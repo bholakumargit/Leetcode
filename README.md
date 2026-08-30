@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/bholakumargit/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/bholakumargit/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -575,4 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/bholakumargit/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/bholakumargit/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
