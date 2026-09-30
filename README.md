@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/bholakumargit/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/bholakumargit/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/bholakumargit/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/bholakumargit/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/bholakumargit/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/bholakumargit/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bholakumargit/Leetcode/tree/master/0070-climbing-stairs) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bholakumargit/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/bholakumargit/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/bholakumargit/Leetcode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/bholakumargit/Leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/bholakumargit/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/bholakumargit/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/bholakumargit/Leetcode/tree/master/0125-valid-palindrome) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/bholakumargit/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/bholakumargit/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/bholakumargit/Leetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/bholakumargit/Leetcode/tree/master/0867-transpose-matrix) |
